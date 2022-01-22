@@ -1,0 +1,110 @@
+ul{ 
+    display: inline;
+    text-align: right;
+}
+ul li{
+    list-style: none;
+    padding-top: 5px;
+    display: inline;
+    float: right;
+    padding-right: 20px;
+}
+.bur-logo{
+    height: 10%;
+    width: 20%;
+
+}
+.bur-logo h2{
+    margin-left: 80px;
+    padding: 50px;
+}
+.bur-logo h2 em span{
+    color: orange;
+    font-weight: bold;
+    
+}
+.bur-logo img{
+    margin-top: 0px;
+    
+}
+.bur-city img{
+    filter: orange;
+    size: 10px;
+    height: 35%;
+    width: 20%;
+    float: right;
+    position top: right;
+}
+.bur-par{
+    margin-top: 20px;
+    height: 50%;
+    width: 50%;
+}
+.btn{
+    background-color: orange;
+    border: none;
+    padding top: 120px;
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    border-radius: 10px;
+   }
+.quality-bur img{
+    filter: orange;
+    size: 10px;
+    height: 5%;
+    width: 5%;
+
+}
+.delivery-bur img{
+    filter: orange;
+    size: 10px;
+    height: 5%;
+    width: 5%;}
+.delivery-bur img{
+        filter: orange;
+        size: 10px;
+        height: 5%;
+        width: 5%;
+}
+.del{
+    background-color: palegreen;
+}
+.bur-par{
+    padding-bottom: 190px;
+    padding-top: 130px;
+
+}
+.bur-logo img{
+    position: top;
+}
+.menu h2{ 
+    font-weight: bold;
+    ;
+    
+}
+.menu hr{
+    width: 50%;
+    height: 80%;
+    background-color: orange;
+    position: left;
+}
+.menu img{
+    size: 10px;
+    height: 25%;
+    width: 25%;
+}
+.menu h3{
+    color: purple; 
+
+}
+.menu h2 span{
+    color: orange;
+}
+.btn2{
+    border: none;
+    padding top: 120px;
+    border-radius: 10px;
+    margin-bottom: 50px;
+    margin: 8px,4px;
+}
