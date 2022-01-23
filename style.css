@@ -4,6 +4,9 @@
     display: inline;
     float: right;
     padding-right: 20px;
+    font-weight: bold;
+    font-size: 18px;
+    color: black;
 
 }
 .ls{
@@ -59,7 +62,8 @@
     background-color: palegreen;
 }
 .menu h2{ 
-    font-weight: bold;    
+    font-weight: bold;  
+    color: purple;  
 }
 .menu hr{
     width: 50%;
@@ -90,9 +94,13 @@ height: 300px;
 margin: 20px;
 }
 .city img{
-    height: 65%;
-    width: 35%;
-    background-color: orange;
+    height: 75%;
+    width: 45%;
+        background: orange;
+        -webkit-transform: skew(30deg);
+        -moz-transform: skew(30deg);
+        -o-transform: skew(30deg);
+        transform: skew(30deg);
     float: right;
 }
 .container2{
@@ -100,6 +108,7 @@ margin: 20px;
     height: 20%;
     display: flex;
     box-sizing: border-box;
+    background-color: rgb(206, 233, 206);
 }
 .burger1 img{
     height: 15%;
@@ -400,7 +409,23 @@ margin: 20px;
     list-style: none;
 }
 #social img{
-    height: 3%;
-    width: 2%;
+    height: 30%;
+    width: 15%;
 
+}
+.social-media{
+    width: 90%;
+    height: 20%;
+    display: flex;
+    justify-content: space-between;
+    box-sizing: border-box;
+}
+#copyright{
+    width: 33.33%;
+}
+#social{
+    width: 33.33%;
+}
+#id{
+    width: 33.33%;
 }
