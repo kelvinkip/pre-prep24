@@ -97,7 +97,7 @@ margin: 20px;
     height: 75%;
     width: 45%;
         background: orange;
-        -webkit-transform: skew(30deg);
+        -webkit-transform: skew(90deg);
         -moz-transform: skew(30deg);
         -o-transform: skew(30deg);
         transform: skew(30deg);
@@ -336,7 +336,6 @@ margin: 20px;
     height: 40%;
     width: 25%;
     border: none;
-    padding top: 120px;
     border-radius: 10px;
     margin-bottom: 50px;
     margin: 8px,4px;
@@ -449,5 +448,5 @@ margin: 20px;
     padding-left: 450px;
 }
 #input{
-    width: 30%;
+    width: 20%;
 }
