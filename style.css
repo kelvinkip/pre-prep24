@@ -40,7 +40,7 @@
     width: 185px;
     margin-top: 130px;
    }
-.quality-bur img{
+   /*.quality-bur img{
     filter: orange;
     size: 10px;
     height: 15%;
@@ -70,11 +70,11 @@
     height: 80%;
     font-weight: bold;
     background-color: orange;
-    position: left;
+    position: left;*/
 }
 .menu h3{
     color: purple; 
-}
+ } 
 .heading1 h2 span{
     color: orange;
 }
@@ -83,52 +83,31 @@
     padding-bottom: 105px;
     padding-top: 75px;
 }
-.container{
-    width: 100%;
-    height: auto;
-    display: flex;
-}
-.bur-par{
-width: 20%;
-height: 300px;
-margin: 20px;
-}
 .city img{
     height: 75%;
     width: 45%;
         background: orange;
-        -webkit-transform: skew(90deg);
-        -moz-transform: skew(30deg);
-        -o-transform: skew(30deg);
-        transform: skew(30deg);
     float: right;
 }
 .container2{
     width: 100%;
     height: 20%;
     display: flex;
-    box-sizing: border-box;
     background-color: rgb(206, 233, 206);
 }
 .burger1 img{
     height: 15%;
     width: 15%;
-    color: orange;
+   background-color: orange;
 }
 .burger2 img{
     height: 15%;
     width: 15%;
-    margin-right: 25px;
+
 }
 .del-bur img{
     height: 15%;
     width: 15%;
-}
-.container3{
-    width: 100%;
-    height: auto;
-    display: flex;
-    box-sizing: border-box;
 }
 .menu{
     width: 20%;
@@ -139,17 +118,10 @@ margin: 20px;
     height: 15%;
     width: 15%;
 }
-.container4{
-    width: 100%;
-    height: 20%;
-    display: flex;
-    box-sizing: border-box;
-}
 .container10{
     width: 100%;
     height: 20%;
     display: flex;
-    box-sizing: border-box;
     background-color: rgb(236, 253, 207);
 }
 .menu4{
@@ -253,7 +225,6 @@ margin: 20px;
     width: 100%;
     height: 20%;
     display: flex;
-    box-sizing: border-box;
 }
 .double{
     width: 33.33%;
